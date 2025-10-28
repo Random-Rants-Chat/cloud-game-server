@@ -1,0 +1,15 @@
+{
+  "name": "jsify-cloud-server",
+  "version": "1.0.0",
+  "description": "Cloud variable server for JSIfy - Scratch To Javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Gvbvdxx",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "ws": "^8.14.2"
+  }
+}
